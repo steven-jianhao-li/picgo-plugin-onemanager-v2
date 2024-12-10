@@ -25,7 +25,9 @@
 
 由于我之前已完成[onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index)的搭建，因此我本来有获取图片直链的方案，但缺乏上传图片的手段，因此借用[onemanager](https://github.com/qkqpttgf/OneManager-php)项目，用于上传图片。
 
-目前最基本的图床功能已实现：上传图片&返回直链URL，其余功能后续看情况再开发吧（
+目前最基本的图床功能已实现：上传图片&返回直链URL，支持onedrive-vercel-index加密
+
+喜欢的话点个Star吧，任何问题欢迎提Issue！
 
 ## 简单的教程
 
@@ -39,9 +41,9 @@
 
 ![image-20241210152410728](./Pictures/1733815450770.png)
 
-##### ② picgo插件设置安装
+##### ② picgo在线安装（插件设置）
 
-~~在picgo中搜索关键词onemanagerv2即可~~（我再研究下怎么上传PicGo插件商店）
+~~在picgo中搜索关键词onemanagerv2即可~~（PR已经发布了，等待更新）
 
 ### onemanager设置（沿用[picgo-plugin-onemanager](https://github.com/laoxinH/picgo-plugin-onemanager)）
 
