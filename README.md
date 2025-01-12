@@ -43,7 +43,7 @@
 
 ##### ② picgo在线安装（插件设置）
 
-~~在picgo中搜索关键词onemanagerv2即可~~（PR已经发布了，等待更新）
+在picgo中搜索关键词onemanagerv2即可（此外，PR已经发布了，等待更新）
 
 ### onemanager设置（沿用[picgo-plugin-onemanager](https://github.com/laoxinH/picgo-plugin-onemanager)）
 
